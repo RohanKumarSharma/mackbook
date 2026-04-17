@@ -39,9 +39,9 @@ const Showcase = () => {
               <p>
                 Introducing{" "}
                 <span className="text-white">
-                  M4, the next generation of Apple silicon{" "}
+                  M4, the next generation of Apple silicon
                 </span>
-                .M4 powers
+                . M4 powers
               </p>
               <p>
                 It drives Apple Intelligence on iPad Pro, so you can write,
